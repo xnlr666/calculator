@@ -1,0 +1,3 @@
+Hello, world!
+This is an example file created for demonstration purposes.
+Feel free to modify this file as needed.
